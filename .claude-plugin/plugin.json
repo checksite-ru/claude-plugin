@@ -1,0 +1,11 @@
+{
+  "name": "checksite",
+  "displayName": "CheckSite",
+  "version": "1.0.0",
+  "description": "Express website audit by CheckSite.ru: indexing, meta tags, content, security headers, AI-bot access and Russian-law compliance (152-FZ personal data, consumer protection, advertising). Tells you what to fix first.",
+  "author": { "name": "CheckSite", "url": "https://checksite.ru" },
+  "homepage": "https://checksite.ru",
+  "repository": "https://github.com/checksite-ru/claude-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "audit", "website", "yandex", "google", "152-fz", "compliance", "russia"]
+}
