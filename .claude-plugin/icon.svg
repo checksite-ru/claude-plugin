@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>CheckSite</title>
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <ellipse cx="256" cy="360" rx="186" ry="60" fill="none" stroke="#B4B4B4" stroke-width="22"/>
+  <polygon points="120,250 175,200 235,285 420,70 455,105 240,365" fill="#70C055"/>
+</svg>

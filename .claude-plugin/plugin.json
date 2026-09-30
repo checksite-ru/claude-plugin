@@ -7,5 +7,6 @@
   "homepage": "https://checksite.ru",
   "repository": "https://github.com/checksite-ru/claude-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://checksite.ru/privacy/",
   "keywords": ["seo", "audit", "website", "yandex", "google", "152-fz", "compliance", "russia"]
 }
