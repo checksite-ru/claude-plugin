@@ -8,5 +8,8 @@
   "repository": "https://github.com/checksite-ru/claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://checksite.ru/privacy/",
+  "termsOfServiceUrl": "https://checksite.ru/agreement/",
+  "supportUrl": "https://checksite.ru/contacts/",
+  "documentationUrl": "https://github.com/checksite-ru/claude-plugin#readme",
   "keywords": ["seo", "audit", "website", "yandex", "google", "152-fz", "compliance", "russia"]
 }
